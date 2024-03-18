@@ -1,0 +1,76 @@
+
+        body{
+            background-image: linear-gradient(45deg, black,cyan);
+        }
+        div{
+            color: aquamarine;
+            position: absolute;
+            padding: 5px;
+            border-radius: none;
+            top: 10%;
+            left:5%;
+        }
+        .pix{
+            color: rgb(114, 180, 180);
+            position: absolute;
+            padding: 5px;
+            background-color: rgba(255, 255, 255,0.1);
+            top: 25%;
+            left: 10%;
+            cursor: pointer;
+        }
+        .pix:hover{
+            color: white;
+        }
+        .caixapix{
+            color: rgb(114, 180, 180);
+            padding: 60px;
+            position: absolute;
+            background-color: rgba(255, 255, 255,0.1);
+            top: 35%;
+            left: 8%;
+            width: 150px;
+            font-size: 17px;
+            text-align: center;
+            border-radius: 5%;
+            cursor: pointer;
+        }
+        .caixapix:hover{
+            background-color: white;
+            color: black;
+        }
+        .sobre{
+            color: black;
+            background-color: rgba(0, 0, 0, 0.1);
+            top: 20%;
+            left: 60%;
+            position: absolute;
+
+        }
+        .sobre:hover{
+            background-color: white;
+        }
+        .caixasobre{
+            color: white;
+            position: absolute;
+            padding: 100px;
+            background-color: rgba(255, 255, 255,0.1);
+            width: 1000px;
+            left: 30%;
+            top: 35%;
+        }
+        .caixasobre:hover{
+            background-color: white;
+            color: black;
+        }
+        button{
+            background-color: dodgerblue;
+            padding: 15px;
+            text-decoration: none;
+
+        }
+        button:hover{
+            background-color: deepskyblue;
+        }
+
+    

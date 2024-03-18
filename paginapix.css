@@ -1,0 +1,25 @@
+
+        body{
+            background-image: linear-gradient( 45deg, black, cyan);
+        }
+        div{
+            color: aquamarine;
+            position: absolute;
+            padding: 5px;
+            top: 20%;
+            left: 50%;
+        }
+        .caixapag{
+            color: black;
+            top: 30%;
+            left: 46%;
+            padding: 40px;
+            background-color: rgba(255, 255, 255, 0.1);
+            font-size: 15px;
+            box-sizing:15px;
+        }
+        button{
+            background-color: rgb(113, 235, 160);
+            color: black;
+        }
+        
